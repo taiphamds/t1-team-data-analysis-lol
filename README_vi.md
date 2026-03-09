@@ -11,8 +11,7 @@ Quy trình gồm:
 
 ### 2. Kết quả
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/18b9b521-9ef4-4e18-9303-3cc8defcbde4" width="800"/>
-  <p>Hình 1: Thống kê T1</p>
+  <img width="1302" height="743" alt="Image" src="https://github.com/user-attachments/assets/6584ca35-f17b-4c9d-8915-bfb3c3beaa3a" />  <p>Hình 1: Kết quả</p>
 </div>
 
 
