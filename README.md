@@ -11,7 +11,7 @@ The workflow includes:
 
 ### 2. Results
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/18b9b521-9ef4-4e18-9303-3cc8defcbde4" width="800"/>
-  <p>Figure 1: Statistics of T1</p>
+  <img width="1302" height="743" alt="Image" src="https://github.com/user-attachments/assets/6584ca35-f17b-4c9d-8915-bfb3c3beaa3a" />
+  <p>Figure 1: Result </p>
 </div>
 
