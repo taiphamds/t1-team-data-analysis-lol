@@ -1,5 +1,7 @@
 # T1 Esports Data Analysis
 
+![Image](https://github.com/user-attachments/assets/6584ca35-f17b-4c9d-8915-bfb3c3beaa3a)
+
 ### 1. Introduction
 This project focuses on collecting, processing, and analyzing match data of **T1** in various tournaments.  
 The workflow includes:  
@@ -14,4 +16,3 @@ The workflow includes:
   <img width="1302" height="743" alt="Image" src="https://github.com/user-attachments/assets/6584ca35-f17b-4c9d-8915-bfb3c3beaa3a" />
   <p>Figure 1: Result </p>
 </div>
-
